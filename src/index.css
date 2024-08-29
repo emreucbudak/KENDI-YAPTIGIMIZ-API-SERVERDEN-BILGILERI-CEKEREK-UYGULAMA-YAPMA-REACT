@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    width: 20vw;
+    height: 60vh;
+    align-items: center;
+    border: 5px solid green;
+
+}
+.kurslar {
+    display: flex;
+    flex-direction: row;
+    gap: 5vw;
+}
+.text {
+    margin-left: 1vw;
+}

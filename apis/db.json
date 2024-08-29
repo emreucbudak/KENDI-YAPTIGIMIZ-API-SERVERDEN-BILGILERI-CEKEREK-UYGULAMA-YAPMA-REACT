@@ -1,0 +1,23 @@
+{
+    "courses":[{
+        "id":1,
+        "kurs": "Html Kursu",
+        "aciklama" : "bu öyle böyle  kral bir kurstur haberin olsun inş alırsın pğdqwğpdlğwqpldğpwq dlğqpwldğpwqldğpwqldğpwl ğpldqwpğlğpqwğplqwpğld"
+    },
+    {
+        "id":2,
+        "kurs": "React Kursu",
+        "aciklama" : "bu öyle böyle  kral bir kurstur haberin olsun inş alırsın pğdqwğpdlğwqpldğpwq dlğqpwldğpwqldğpwqldğpwl ğpldqwpğlğpqwğplqwpğld"
+    },
+    {
+        "id":3,
+        "kurs": "JavaScript  Kursu",
+        "aciklama" : "bu öyle böyle  kral bir kurstur haberin olsun inş alırsın pğdqwğpdlğwqpldğpwq dlğqpwldğpwqldğpwqldğpwl ğpldqwpğlğpqwğplqwpğld"
+    },
+    {
+        "id":4,
+        "kurs": "Tailwind  Kursu",
+        "aciklama" : "bu öyle böyle  kral bir kurstur haberin olsun inş alırsın pğdqwğpdlğwqpldğpwq dlğqpwldğpwqldğpwqldğpwl ğpldqwpğlğpqwğplqwpğld"
+    }
+]
+}
